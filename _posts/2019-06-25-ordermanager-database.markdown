@@ -2,7 +2,7 @@
 layout: post
 title:  "OrderManager Database"
 date:   2019-06-25 16:37:08 -0700
-permalink: /OrderManager-Database/
+permalink: /OrderManager-Database-post/
 categories: portfolio
 ---
 
