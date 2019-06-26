@@ -11,6 +11,7 @@ github_username:  Kaaii
 markdown: kramdown
 theme: minima
 plugins:
+  - jekyll-feed
   - github-pages
 
 # Exclude from processing.
