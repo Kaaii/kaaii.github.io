@@ -34,5 +34,5 @@ De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 * Algorithms
 * Database Management Systems
 
-[GitHub](https://github.com/kaaii)
+[GitHub](https://github.com/kaaii) \\ 
 [HackerRank](https://www.hackerrank.com/something_kai)

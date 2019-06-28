@@ -15,6 +15,8 @@ plugins:
   - github-pages
 include: ['_pages']
 
+google_analytics: UA-142995398-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
