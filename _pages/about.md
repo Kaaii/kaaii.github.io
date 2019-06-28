@@ -13,5 +13,5 @@ In my portfolio, I organized my projects both chronologically and by CS experien
 # Contact
 Email: [wu.kai2@husky.neu.edu](wu.kai2@husky.neu.edu)
 
-[GitHub](https://github.com/kaaii)
+[GitHub](https://github.com/kaaii) \\
 [HackerRank](https://www.hackerrank.com/something_kai)
