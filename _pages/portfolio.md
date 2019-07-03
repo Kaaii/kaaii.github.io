@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 
 # Personal Projects
-* (7/02/19) [Bulbasaur Generator](httsp://kaaii.github.io/bulbasaur-generator-post/) <span style="color: green">*CS XP 2.5 years*</span>
+* (7/02/19) [Bulbasaur Generator](https://kaaii.github.io/bulbasaur-generator-post/) <span style="color: green">*CS XP 2.5 years*</span>
 
 # MS Computer Science Courses
 * (6/25/19) [CS5200 OrderManager Database](https://kaaii.github.io/OrderManager-Database-post/) <span style="color: green">*CS XP 2.5 years*</span>
