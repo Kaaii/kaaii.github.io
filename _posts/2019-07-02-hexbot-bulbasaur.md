@@ -10,7 +10,7 @@ tags: html javascript
 # Bulbasaur Generator
 Created for GitHub's [Noops Challenge](https://noopschallenge.com). Generates a randomly colored bulbasaur using [Hexbot](https://github.com/noops-challenge/hexbot) and modifying the .svg fill color. Each click produces a newly colored bulbasaur from a variety of potential hex codes. Created using html and JavaScript.
 
-## Further Improvements
+# Further Improvements
 Implementing something similar to different Pokémon .svg is possible by predicting where to replace certain colors (hexcodes begin with "#", should ignore white or black (at least outlines), and same hex codes should be changed to the same new color). This process should be automated.
 
 See a demo here: [Bulbasaur Generator](https://kaaii.github.io/bulbasaur-generator) \\
