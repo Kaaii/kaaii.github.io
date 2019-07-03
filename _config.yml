@@ -14,6 +14,11 @@ plugins:
   - jekyll-feed
   - github-pages
 include: ['_pages']
+header_pages:
+  - _pages/about.md
+  - _pages/portfolio.md
+  - _pages/resume.md
+  - _pages/tags.md
 
 google_analytics: UA-142995398-1
 
