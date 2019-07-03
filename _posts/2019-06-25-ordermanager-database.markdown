@@ -4,6 +4,7 @@ title:  "OrderManager Database"
 date:   2019-06-25 16:37:08 -0700
 permalink: /OrderManager-Database-post/
 categories: portfolio
+tags: sql derby java
 ---
 
 [Project Page](https://kaaii.github.io/OrderManager-Database/) \\
