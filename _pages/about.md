@@ -15,3 +15,5 @@ Email: [wu.kai2@husky.neu.edu](wu.kai2@husky.neu.edu)
 
 [GitHub](https://github.com/kaaii) \\
 [HackerRank](https://www.hackerrank.com/something_kai)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="kai-wu"><a class="LI-simple-link" href='https://www.linkedin.com/in/kai-wu?trk=profile-badge'>Kai Wu</a></div>
