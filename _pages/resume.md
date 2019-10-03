@@ -12,7 +12,7 @@ De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 # Experience
 **Graduate Teaching Assistant - Northeastern University, San Francisco**
 <span style = "color: grey">*May 2019 - Current*</span>
-* TA for Northeastern University’s Computer Science ALIGN courses: CS 5006 (Algorithms) and CS 5007 (Computer Systems).
+* TA for Northeastern University’s Computer Science ALIGN courses: CS 5006 (Algorithms) and CS 5007 (Computer Systems). Currently a TA for graduate-level Computer Systems course.
 * Graded assignments and worked with students during office hours to assist them in completing their assignments and answering questions about the material.
 
 **Medical Scribe - CEP America**
@@ -26,13 +26,16 @@ De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 * Improved communication skills by explaining concepts to students in ways that are easy to understand
 
 
-# Skills
+# Languages
 * Proficiency with C, C++, Java, SQL, and Python
-* Familiarity with JavaScript, MongoDB, and HTML
+* Familiarity with JavaScript, MongoDB, HTML/CSS, Ruby
+
+# Tools
+* Eclipse, IntelliJ, CLion, GitHub, Git, Jupyter, RStudio, Cerner
 
 # Graduate level courses:
 * Algorithms
 * Database Management Systems
 
-[GitHub](https://github.com/kaaii) \\ 
+[GitHub](https://github.com/kaaii) \\
 [HackerRank](https://www.hackerrank.com/something_kai)
