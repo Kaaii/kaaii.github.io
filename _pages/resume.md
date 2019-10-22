@@ -5,19 +5,17 @@ permalink: /resume/
 ---
 
 # Education
-**Computer Science M.S. - Northeastern University** - San Jose, CA <span style = "color: grey">*Sept 2018 - Present*</span> \\
+**Computer Science M.S. - Northeastern University** - San Jose, CA
+\\ <span style = "color: grey">*Sept 2018 - Present*</span> \\
 Expected Graduation: May 2021 \\
-**Neurobiology, Physiology, & Behavior B.S. - University of California, Davis** - Davis, CA<span style = "color: grey">*Sept 2015 - Dec 2017*</span> \\
+**Neurobiology, Physiology, & Behavior B.S. - University of California, Davis** - Davis, CA
+\\ <span style = "color: grey">*Sept 2015 - Dec 2017*</span> \\
 De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 
-# Languages
-* Python, Java, C/C++, Ruby
-
-# Tools
-* Eclipse, IntelliJ IDEs, GitHub, Git, Jupyter, LaTeX
-
-# Databases
-* SQL, Apache Derby, MongoDB
+# Technical Skills
+**Languages** Python, Java, C/C++, Ruby
+\\**Tools** Eclipse, IntelliJ IDEs, GitHub, Git, Jupyter, LaTeX
+\\**Databases** SQL, Apache Derby, MongoDB
 
 # Experience
 **Graduate Teaching Assistant - Northeastern University**
@@ -41,6 +39,7 @@ De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 **Pac-Man Projects, Northeastern University**
 <span style = "color: grey">*Sept 2019 - Present*</span>
 * Designed evaluation functions, and implemented local search and minimax/expectimax algorithms in Python to pass Pac-Man problem sets P1 and P2 with full marks. P3-P5 in progress.
+
 **Order Manager Database, Northeastern University**
 <span style = "color: grey">*June 2019*</span>
 * Designed an SQL (Apache Derby) database in a team of two to be used as a foundation for a backend application for managing products, inventory, and customer orders.
