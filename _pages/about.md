@@ -8,7 +8,6 @@ I am currently a M.S. Computer Science graduate student at Northeastern Universi
 \\
 \\
 Outside of CS, my interests include: nature documentaries, national parks, D&D, video games, and digital drawing.
-\\
 
 # Contact
 Email: [wu.kai2@husky.neu.edu](wu.kai2@husky.neu.edu)

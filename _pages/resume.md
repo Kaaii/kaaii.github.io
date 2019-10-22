@@ -6,16 +6,23 @@ permalink: /resume/
 
 # Education
 **Computer Science M.S. - Northeastern University** - San Jose, CA
-\\ <span style = "color: grey">*Sept 2018 - Present*</span> \\
-Expected Graduation: May 2021 \\
+
+<span style = "color: grey">*Sept 2018 - Present*</span>
+
+Expected Graduation: May 2021
+
 **Neurobiology, Physiology, & Behavior B.S. - University of California, Davis** - Davis, CA
-\\ <span style = "color: grey">*Sept 2015 - Dec 2017*</span> \\
+
+<span style = "color: grey">*Sept 2015 - Dec 2017*</span>
+
 De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 
 # Technical Skills
 **Languages** Python, Java, C/C++, Ruby
-\\**Tools** Eclipse, IntelliJ IDEs, GitHub, Git, Jupyter, LaTeX
-\\**Databases** SQL, Apache Derby, MongoDB
+
+**Tools** Eclipse, IntelliJ IDEs, GitHub, Git, Jupyter, LaTeX
+
+**Databases** SQL, Apache Derby, MongoDB
 
 # Experience
 **Graduate Teaching Assistant - Northeastern University**
