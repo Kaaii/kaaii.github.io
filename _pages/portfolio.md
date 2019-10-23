@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 
 [GitHub](https://github.com/kaaii) \\
-[Code Directory](https://github.com/kaaii) 
+[Code Directory](https://github.com/kaaii/CodeDir) 
 
 # Academic Projects
 * (9/2019) [Pac-Man Projects](http://ai.berkeley.edu/project_overview.html) <span style="color: green">*Python*</span>
