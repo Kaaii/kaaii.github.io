@@ -8,6 +8,7 @@ title: Hello.
 
 [About](https://kaaii.github.io/about) \\
 [Resume](https://kaaii.github.io/resume) \\
-[Portfolio](https://kaaii.github.io/portfolio)
+[Portfolio](https://kaaii.github.io/portfolio) \\
+[Posts](https://kaaii.github.io/blog)
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
