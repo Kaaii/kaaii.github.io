@@ -10,7 +10,8 @@ I am currently a M.S. Computer Science graduate student at Northeastern Universi
 Outside of CS, my interests include: nature documentaries, national parks, D&D, video games, and digital drawing.
 
 # Contact
-Email: [wu.kai2@husky.neu.edu](wu.kai2@husky.neu.edu)
+Email: [wu.kai2@husky.neu.edu](wu.kai2@husky.neu.edu) \\
+Located in SF Bay Area.
 
 [GitHub](https://github.com/kaaii) \\
 [HackerRank](https://www.hackerrank.com/something_kai)
