@@ -5,9 +5,10 @@ permalink: /portfolio/
 ---
 
 [GitHub](https://github.com/kaaii) \\
-[Code Directory](https://github.com/kaaii/CodeDir) 
+[Code Directory](https://github.com/kaaii/CodeDir)
 
 # Academic Projects
+* (11/2019) ["AI and Visual Art Generation" Report](https://kaaii.github.io/ai-and-art-generation-post/) <span style="color: green">*LaTeX (in pdf format)*</span>
 * (9/2019) [Pac-Man Projects](http://ai.berkeley.edu/project_overview.html) <span style="color: green">*Python*</span>
 * (8/2019) Virtual File System <span style="color: green">*FUSE, C*</span>
 * (6/2019) [CS5200 OrderManager Database](https://kaaii.github.io/OrderManager-Database-post/) <span style="color: green">*SQL, Apache Derby, Java*</span>
