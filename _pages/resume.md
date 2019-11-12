@@ -5,22 +5,22 @@ permalink: /resume/
 ---
 
 # Education
-**Computer Science M.S. - Northeastern University** - San Jose, CA
+**M.S. Computer Science - Northeastern University** - San Jose, CA
 
-<span style = "color: grey">*Sept 2018 - Present*</span>
+<span style = "color: grey">*Sept 2018 - May 2021*</span>
 
 Expected Graduation: May 2021
 
-**Neurobiology, Physiology, & Behavior B.S. - University of California, Davis** - Davis, CA
+**B.S. Neurobiology, Physiology, & Behavior - University of California, Davis** - Davis, CA
 
 <span style = "color: grey">*Sept 2015 - Dec 2017*</span>
 
 De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 
 # Technical Skills
-**Languages** Python, Java, C/C++, Ruby
+**Languages** Python, Java, C/C++, Ruby, R, Bash
 
-**Tools** Eclipse, IntelliJ IDEs, GitHub, Git, Jupyter, LaTeX
+**Tools** Scikit-learn, Jupyter, JUnit, CUnit, Git, R. Self-directed learning: TensorFlow, Keras
 
 **Databases** SQL, Apache Derby, MongoDB
 
@@ -43,18 +43,28 @@ De Anza College  <span style = "color: grey">*Jan 2012 - Sept 2015*</span>
 * Provided feedback on essay structure and grammar to help students communicate their concepts more clearly.
 
 # Academic Projects
-**Pac-Man Projects, Northeastern University**
+**Home Credit Default Risk Prediction — Northeastern University**
+<span style = "color: grey">*Oct 2019 - Present*</span>
+* Based off of the 2018 competition from Kaggle to predict whether an applicant is capable of repaying a loan.
+* Performed exploratory data analysis using pandas and numpy in Python.
+* Currently using Ruby in Jupyter for feature extraction; using techniques such as one-hot, non-linear transformations, and normalization (z-score and L2).
+
+**Report on AI and Art Generation — Northeastern University**
+<span style = "color: grey">*Nov 2019*</span>
+* Researched and wrote a report on artificial intelligence and art generation using LaTeX for Foundations in AI course.
+* Report covered recent topics in machine learning research such as recurrent neural networks for sketch completion, neural style transfer, and GANs.
+
+
+**Pac-Man Projects - Northeastern University**
 <span style = "color: grey">*Sept 2019 - Present*</span>
 * Designed evaluation functions, and implemented local search and minimax/expectimax algorithms in Python to pass Pac-Man problem sets P1 and P2 with full marks. P3-P5 in progress.
 
-**Order Manager Database, Northeastern University**
+**Order Manager Database - Northeastern University**
 <span style = "color: grey">*June 2019*</span>
-* Designed an SQL (Apache Derby) database in a team of two to be used as a foundation for a backend application for managing products, inventory, and customer orders.
-* Developed an API in Java for creating orders, products, or customers, as well as calculating
-order totals and checking inventory.
-* Documented database schema and API usage using GitHub pages.
+* Designed an SQL database using Apache Derby in a team of two, and made sure naming schemes were consistent for ease of use.
+* Developed an API in Java for interactions with the database, and modularized code for easier collaboration.
 
-**HackDavis, University of California, Davis**
+**HackDavis 2018 - University of California, Davis**
 <span style = "color: grey">*Jan 2018*</span>
 * Developed a Discord bot using Python within 48 hours.
 * Bot performed simple time management tasks, such as setting a reminder, starting a timer, and
