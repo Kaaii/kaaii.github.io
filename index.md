@@ -7,7 +7,7 @@ title: Hello.
 ---
 
 [About](https://kaaii.github.io/about) \\
-[Resume](https://kaaii.github.io/resume) \\
+[Resume](https://kaaii.github.io/wu_kai_resume.pdf) \\
 [Portfolio](https://kaaii.github.io/portfolio) \\
 [Posts](https://kaaii.github.io/blog)
 
