@@ -7,9 +7,9 @@ permalink: /resume/
 # Education
 **M.S. Computer Science - Northeastern University** - San Jose, CA
 
-<span style = "color: grey">*Sept 2018 - May 2021*</span>
+<span style = "color: grey">*Sept 2018 - Dec 2020*</span>
 
-Expected Graduation: May 2021
+Expected Graduation: Dec 2020
 
 **B.S. Neurobiology, Physiology, & Behavior - University of California, Davis** - Davis, CA
 
